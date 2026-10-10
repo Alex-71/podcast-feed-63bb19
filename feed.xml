@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Boletín diario</title>
+    <link>https://alex-71.github.io/podcast-feed-63bb19/</link>
+    <description>Resumen diario de noticias de ciencia y tecnología con análisis, en una voz. Uso personal.</description>
+    <language>es</language>
+    <itunes:author>Boletín diario</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://alex-71.github.io/podcast-feed-63bb19/portada.png" />
+    <itunes:category text="Technology" />
+    <lastBuildDate>Sat, 10 Oct 2026 10:00:00 +0000</lastBuildDate>
+    <item>
+      <title>20261010 · Boletín diario: sábado 10 de octubre</title>
+      <description>Boletín del sábado 10 de octubre de 2026.</description>
+      <enclosure url="https://alex-71.github.io/podcast-feed-63bb19/d20261010.m4a" length="4019035" type="audio/x-m4a" />
+      <guid isPermaLink="false">boletin-diario-d20261010</guid>
+      <pubDate>Sat, 10 Oct 2026 10:00:00 +0000</pubDate>
+      <itunes:duration>00:03:13</itunes:duration>
+      <itunes:episode>20261010</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
