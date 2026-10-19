@@ -10,7 +10,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://alex-71.github.io/podcast-feed-63bb19/portada.png" />
     <itunes:category text="Technology" />
-    <lastBuildDate>Sun, 18 Oct 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 10:00:00 +0000</lastBuildDate>
     <item>
       <title>20261010 · Boletín diario: sábado 10 de octubre</title>
       <description>Boletín: sábado 10 de octubre.</description>
@@ -107,6 +107,17 @@
       <pubDate>Sun, 18 Oct 2026 10:00:00 +0000</pubDate>
       <itunes:duration>00:03:38</itunes:duration>
       <itunes:episode>20261018</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>20261019 · Boletín diario: lunes 19 de octubre</title>
+      <description>Boletín: lunes 19 de octubre.</description>
+      <enclosure url="https://alex-71.github.io/podcast-feed-63bb19/d20261019.m4a" length="4103013" type="audio/x-m4a" />
+      <guid isPermaLink="false">boletin-diario-d20261019</guid>
+      <pubDate>Mon, 19 Oct 2026 10:00:00 +0000</pubDate>
+      <itunes:duration>00:03:17</itunes:duration>
+      <itunes:episode>20261019</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
