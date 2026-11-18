@@ -10,18 +10,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://alex-71.github.io/podcast-feed-63bb19/portada.png" />
     <itunes:category text="Technology" />
-    <lastBuildDate>Mon, 16 Nov 2026 10:00:00 +0000</lastBuildDate>
-    <item>
-      <title>20261016 · Boletín diario: viernes 16 de octubre</title>
-      <description>Boletín: viernes 16 de octubre.</description>
-      <enclosure url="https://alex-71.github.io/podcast-feed-63bb19/d20261016.m4a" length="4138330" type="audio/x-m4a" />
-      <guid isPermaLink="false">boletin-diario-d20261016</guid>
-      <pubDate>Fri, 16 Oct 2026 10:00:00 +0000</pubDate>
-      <itunes:duration>00:03:19</itunes:duration>
-      <itunes:episode>20261016</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+    <lastBuildDate>Wed, 18 Nov 2026 10:00:00 +0000</lastBuildDate>
     <item>
       <title>20261017 · Boletín diario: sábado 17 de octubre</title>
       <description>Boletín: sábado 17 de octubre.</description>
@@ -338,6 +327,17 @@
       <pubDate>Mon, 16 Nov 2026 10:00:00 +0000</pubDate>
       <itunes:duration>00:04:15</itunes:duration>
       <itunes:episode>20261116</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>20261118 · Boletín diario: miércoles 18 de noviembre</title>
+      <description>Boletín: miércoles 18 de noviembre.</description>
+      <enclosure url="https://alex-71.github.io/podcast-feed-63bb19/d20261118.m4a" length="5900631" type="audio/x-m4a" />
+      <guid isPermaLink="false">boletin-diario-d20261118</guid>
+      <pubDate>Wed, 18 Nov 2026 10:00:00 +0000</pubDate>
+      <itunes:duration>00:04:46</itunes:duration>
+      <itunes:episode>20261118</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
