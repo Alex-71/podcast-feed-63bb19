@@ -10,18 +10,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://alex-71.github.io/podcast-feed-63bb19/portada.png" />
     <itunes:category text="Technology" />
-    <lastBuildDate>Fri, 27 Nov 2026 10:00:00 +0000</lastBuildDate>
-    <item>
-      <title>20261026 · Boletín diario: lunes 26 de octubre</title>
-      <description>Boletín: lunes 26 de octubre.</description>
-      <enclosure url="https://alex-71.github.io/podcast-feed-63bb19/d20261026.m4a" length="4639209" type="audio/x-m4a" />
-      <guid isPermaLink="false">boletin-diario-d20261026</guid>
-      <pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
-      <itunes:duration>00:03:44</itunes:duration>
-      <itunes:episode>20261026</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+    <lastBuildDate>Fri, 27 Nov 2026 10:01:00 +0000</lastBuildDate>
     <item>
       <title>20261027 · Boletín diario: martes 27 de octubre</title>
       <description>Boletín: martes 27 de octubre.</description>
@@ -338,6 +327,17 @@
       <pubDate>Fri, 27 Nov 2026 10:00:00 +0000</pubDate>
       <itunes:duration>00:04:01</itunes:duration>
       <itunes:episode>20261127</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>202611271 · Boletín diario: especial Decision Intelligence y Data Products</title>
+      <description>Boletín: especial Decision Intelligence y Data Products.</description>
+      <enclosure url="https://alex-71.github.io/podcast-feed-63bb19/d202611271.m4a" length="5210301" type="audio/x-m4a" />
+      <guid isPermaLink="false">boletin-diario-d202611271</guid>
+      <pubDate>Fri, 27 Nov 2026 10:01:00 +0000</pubDate>
+      <itunes:duration>00:04:12</itunes:duration>
+      <itunes:episode>202611271</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
