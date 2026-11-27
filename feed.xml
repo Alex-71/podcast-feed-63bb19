@@ -10,18 +10,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://alex-71.github.io/podcast-feed-63bb19/portada.png" />
     <itunes:category text="Technology" />
-    <lastBuildDate>Thu, 26 Nov 2026 10:00:00 +0000</lastBuildDate>
-    <item>
-      <title>20261025 · Boletín diario: domingo 25 de octubre</title>
-      <description>Boletín: domingo 25 de octubre.</description>
-      <enclosure url="https://alex-71.github.io/podcast-feed-63bb19/d20261025.m4a" length="4165450" type="audio/x-m4a" />
-      <guid isPermaLink="false">boletin-diario-d20261025</guid>
-      <pubDate>Sun, 25 Oct 2026 10:00:00 +0000</pubDate>
-      <itunes:duration>00:03:20</itunes:duration>
-      <itunes:episode>20261025</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+    <lastBuildDate>Fri, 27 Nov 2026 10:00:00 +0000</lastBuildDate>
     <item>
       <title>20261026 · Boletín diario: lunes 26 de octubre</title>
       <description>Boletín: lunes 26 de octubre.</description>
@@ -338,6 +327,17 @@
       <pubDate>Thu, 26 Nov 2026 10:00:00 +0000</pubDate>
       <itunes:duration>00:04:00</itunes:duration>
       <itunes:episode>20261126</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>20261127 · Boletín diario: viernes 27 de noviembre</title>
+      <description>Boletín: viernes 27 de noviembre.</description>
+      <enclosure url="https://alex-71.github.io/podcast-feed-63bb19/d20261127.m4a" length="4990637" type="audio/x-m4a" />
+      <guid isPermaLink="false">boletin-diario-d20261127</guid>
+      <pubDate>Fri, 27 Nov 2026 10:00:00 +0000</pubDate>
+      <itunes:duration>00:04:01</itunes:duration>
+      <itunes:episode>20261127</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
